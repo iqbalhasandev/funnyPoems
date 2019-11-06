@@ -1,0 +1,65 @@
+
+/***************** header ****************************/
+
+.header{
+    background: url(../img/banner.jpg);
+    width: 100%;
+    height: 310px;
+}
+.header h3{
+    
+    color: #fff;
+    padding: 100px;
+}
+/******************* / header ***************************/
+
+
+/**************** btn *****************************/
+.button{}
+.button a{}
+.button button:hover{
+    background: #218206;
+    color: #FFF;
+}
+.btn_color{
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+    background: #4281bf;
+    color: #FFF;}
+/*************** / btn *****************************/
+
+
+/**************** Jokes_section *****************/
+.Jokes_section{}
+.Jokes_section h4{padding: 15px;}
+/**************** / Jokes_section *****************/
+
+/*************** last_content ***********************/
+
+.last_content{}
+.last_content h4{margin: 0px 0px 4px 0px;}
+.last_content a{text-decoration: underline;color: #070606;padding: 10px;font-size: 16px;background: #FFF;border-radius: 5px;display: inline-block;}
+.last_content a:hover{background: #218206;
+    color: #FFF;}
+
+/*************** / last_content ***********************/
+
+/******************** footer***********************/
+footer{
+
+    background: #4281bf;
+    font: ;
+    color: #fff;
+}
+footer h4{
+    
+    font-size: 15px;
+    padding: 3px;
+}
+footer a{color: #fff;}
+footer a:hover{ 
+    color: rgb(224, 14, 144);
+
+}
+/******************* / footer***********************/

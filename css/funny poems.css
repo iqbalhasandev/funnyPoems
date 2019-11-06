@@ -1,0 +1,9 @@
+/**************** last_content ***********************/
+
+.last_content{}
+.last_content h4{margin: 0px 0px 4px 0px;}
+.last_content a{text-decoration: underline;color: #070606;padding: 10px;font-size: 16px;background: #FFF;border-radius: 5px;display: inline-block;}
+.last_content a:hover{background: #218206;
+    color: #FFF;}
+
+/*************** / last_content ***********************/
